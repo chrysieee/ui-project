@@ -1,0 +1,44 @@
+{
+  "name": "ui-project",
+  "version": "0.0.1",
+  "description": "ui project",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viatick-co/ui-project.git"
+  },
+  "keywords": [
+    "ui"
+  ],
+  "author": "development team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viatick-co/ui-project/issues"
+  },
+  "homepage": "https://github.com/Viatick-co/ui-project#readme",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-animate": "^1.6.4",
+    "angular-aria": "^1.6.4",
+    "angular-material": "^1.1.4",
+    "angular-route": "^1.6.4",
+    "font-awesome": "^4.7.0",
+    "moment": "^2.18.1",
+    "roboto-fontface": "^0.7.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-inject": "^4.2.0",
+    "gulp-remove-html-comments": "^1.0.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
